@@ -12,7 +12,7 @@ for i in mygenerator:
 
 print("****")
 for i in mygenerator:
-    print(i)
+    print(i + i)
 
 #ADDED SOME DUMMY CODE HERE
 
