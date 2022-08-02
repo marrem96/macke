@@ -30,5 +30,6 @@ for i in mygenerator:
 
 #ADDED A SEVENTH ROW ON MASTER
 
+print(3+3)
 
 #ADDED SOME THINGS ON MASTER
